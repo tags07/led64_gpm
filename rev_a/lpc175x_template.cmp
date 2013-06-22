@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sat 22 Jun 2013 12:00:42 AM PDT
+
+BeginCmp
+TimeStamp = /4FF7805D;
+Reference = C1;
+ValeurCmp = .33uF;
+IdModule  = CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF78067;
+Reference = C2;
+ValeurCmp = .1uF;
+IdModule  = CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE2154;
+Reference = C3;
+ValeurCmp = 18pF;
+IdModule  = CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE20C2;
+Reference = C4;
+ValeurCmp = 18pF;
+IdModule  = CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE60D8;
+Reference = C5;
+ValeurCmp = .1uF;
+IdModule  = CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE60DE;
+Reference = C6;
+ValeurCmp = .1uF;
+IdModule  = CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE60E1;
+Reference = C7;
+ValeurCmp = .1uF;
+IdModule  = CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE60E4;
+Reference = C8;
+ValeurCmp = .1uF;
+IdModule  = CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = /50089504;
+Reference = C9;
+ValeurCmp = .1uF;
+IdModule  = CAPC1608X90N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF4DF88;
+Reference = H1;
+ValeurCmp = HOLE;
+IdModule  = M3.0_#4_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF4DF81;
+Reference = H2;
+ValeurCmp = HOLE;
+IdModule  = M3.0_#4_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF4DF8D;
+Reference = H3;
+ValeurCmp = HOLE;
+IdModule  = M3.0_#4_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF4DF90;
+Reference = H4;
+ValeurCmp = HOLE;
+IdModule  = M3.0_#4_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF78F09;
+Reference = J1;
+ValeurCmp = MB_TERMINATE;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF46A99;
+Reference = N1;
+ValeurCmp = JTAG_ICSP;
+IdModule  = HEADER_2X8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF46ABF;
+Reference = N2;
+ValeurCmp = MB_SLAVE;
+IdModule  = HEADER_2X5_SHROUDED;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF79C90;
+Reference = R1;
+ValeurCmp = 124 1%;
+IdModule  = RESC1608X50N;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C5167F;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = RESC1608X50N;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C5164A;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = RESC1608X50N;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C52796;
+Reference = R4;
+ValeurCmp = 24K;
+IdModule  = RESC1608X50N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF46B48;
+Reference = U1;
+ValeurCmp = MAX3051ESA;
+IdModule  = SOIC127P600X175-8N;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFBB624;
+Reference = U2;
+ValeurCmp = L78L33AC;
+IdModule  = SOT89;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFDC151;
+Reference = U3;
+ValeurCmp = LPC175X;
+IdModule  = QFP50P1400X1400X160-80N;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C519D6;
+Reference = X1;
+ValeurCmp = 20MHZ;
+IdModule  = XTAL1150X480X430N;
+EndCmp
+
+EndListe
